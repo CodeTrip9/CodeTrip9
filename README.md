@@ -28,6 +28,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/CodeTrip9/CodeTrip9/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/CodeTrip9/output/snake.svg" alt="Snake animation" />
 
 ###
