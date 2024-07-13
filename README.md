@@ -32,7 +32,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/CodeTrip9/CodeTrip9/output/snake.svg" alt="Snake animation" />
 
 ###
 ###
